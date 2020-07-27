@@ -1,0 +1,28 @@
+body
+{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.h
+{
+    float:right;
+}
+.hh
+{
+    float:left;
+}
+.logo img
+{
+    width:500px;
+    height:200px;
+}
+.ma
+{
+    text-align: center;
+    padding-top: 50px
+}
+.footr
+{
+    float:right;
+}
